@@ -10,5 +10,6 @@ class check_dublicate_optimized:
 print(check_dublicate_optimized.check_Dublicate([1,2,3,4,5,1]))
 print(check_dublicate_optimized.check_Dublicate([1,1,2,2,3,3]))
 print(check_dublicate_optimized.check_Dublicate([]))
-print(check_dublicate_optimized.check_Dublicate([1
+print(check_dublicate_optimimkdir -p ~/.ssh
+      zed.check_Dublicate([1
                                                  ]))
